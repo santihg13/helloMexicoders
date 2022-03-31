@@ -17,3 +17,9 @@ Cuando decimos que un código está documentado, nos referimos a que está acomp
 
 
 ![matlab](./pics/docMatlab.png)
+
+## ¿Por qué documentamos?
+
+Cuando estamos en el rol de programadores, tendemos a pensar de manera distinta a la cotidiana. Por ende, nos podemos disociar de nuestros usuarios y asumir que las cosas que son sencillas para nosotros, también lo serán para ellos. El primer motivo para documentar es permitir al usuario entender al código con igual profundidad que quien lo escribió; de esta forma, se puede dar la colaboración y el mejoramiento continuo de los programas. 
+
+Otro motivo importante para documentar, como se señala en el artículo *A beginner’s guide to writing documentation*, es que "el código que escribiste hace 6 meses será tan irreconocible como el que escribió otra persona" (writethedocs.org). Una vez que el código no esté "fresco" en nuestra mente, nos será tan difícil entenderlo como a los usuarios externos. Es necesario generar la documentación adecuada para que esto no ocurra. 
