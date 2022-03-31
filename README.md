@@ -4,7 +4,7 @@ Así que has decidido unirte a *Hello Mexicoders!* Probablemente tendrás muchas
 
 ## Qué es la documentación 
 
-Cuando decimos que un código está documentado, nos referimos a que está acompañado algun(os) documento(s) escritos con el fin de que el usuario entienda las funcionalidades del programa o sistema. Dependiendo del programa en cuestión, la documentación se puede presentar en distintos formatos, por ejemplo: 
+Cuando decimos que un código está documentado, nos referimos a que está acompañado de algun(os) documento(s) escritos con el fin de que el usuario entienda las funcionalidades del programa o sistema. Dependiendo del programa en cuestión, la documentación se puede presentar en distintos formatos, por ejemplo: 
 
 - archivos .md (markdown) tal y como este
 - páginas web seccionadas 
@@ -12,3 +12,8 @@ Cuando decimos que un código está documentado, nos referimos a que está acomp
 - series de video
 - audiolibros
 - comentarios dentro del código 
+
+### Ejemplo de documentación (Matlab)
+
+
+![matlab](./pics/docMatlab.png)
